@@ -1,3 +1,5 @@
+//Drew Young 5/23/17
+
 PImage img; 
 float size =100;
 int angle =0;
@@ -7,10 +9,6 @@ void setup() {
  img = loadImage("Ferrari FXXK, FXX, and 599XX.jpg"); 
 }
 void draw() {
-  
-  
-  
-  
   
   imageMode(CENTER);
   background(192);
